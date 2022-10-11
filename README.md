@@ -9,7 +9,7 @@
 
 # 2. Como começar a usar o Cypress?
 
-É muito fácil! Você só precisa do Node.js instalado. Ele pode ser encontrado aqui: https://nodejs.org/en/download/
+É muito fácil! Você só precisa do Node.js instalado. Ele pode ser encontrado aqui: https://nodejs.org/en/download/  
 E para facilitar a codificação, utilize uma IDE de desenvolvimento de sua preferência. Para esse tutorial será utilizado o VScode.
 
 
